@@ -58,6 +58,7 @@ I’m always looking to push my boundaries and take on exciting projects. My cur
 I’m always open to collaboration, new opportunities, or just a chat about tech! Feel free to reach out to me through the following platforms:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/anees-fayyaz-/)
 - [![Freelancer](https://img.shields.io/badge/Freelancer-29b2fe?logo=freelancer&logoColor=white&style=flat-square)](https://www.freelancer.com/u/aneesfayyaz007)
+- [![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white&style=flat-square)](https://www.upwork.com/freelancers/aneesf3)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](aneesfayyaz007@gmail.com)
 
 ---
